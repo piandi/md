@@ -107,6 +107,14 @@ c       variable for cost estimation
 c       product cost 
         type(Cost) :: Cost
       end type ProcUnit
+      
+c     Define physical properties of thermoelectric element
+      type TE
+        character*4 :: ID ! dientifier in process flow diagram
+        real*8 :: Resistance ! electric resistance (ohm)
+        real*8 :: alpha ! Seebect coefficient (V/K)
+        real*8 :: kappa ! thermal conductivity (W/m-K)
+      end type TE
 
 c     Define common variables
       integer :: COM_OPT(16)

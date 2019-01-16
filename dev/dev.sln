@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "boiler", "boiler.vfproj", "{69E8D2B1-CC51-467C-ADC1-D347B51967B7}"
 EndProject
 Global

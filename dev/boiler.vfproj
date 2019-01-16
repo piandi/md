@@ -40,6 +40,7 @@
 		<File RelativePath=".\localflux.f90"/>
 		<File RelativePath=".\main.f"/>
 		<File RelativePath=".\property.f90"/>
+		<File RelativePath=".\TEHP.f"/>
 		<File RelativePath=".\test.f"/>
 		<File RelativePath=".\toolkits.f90"/></Filter></Files>
 	<Globals/></VisualStudioProject>

@@ -26,7 +26,8 @@
 !      call test_DAVG
 !      call test_SetStreamIndex
 !      call test_AvgMolWeight
-      call test_SpecVolV
-      call test_CalcProfile
+!      call test_SpecVolV
+!      call test_CalcProfile
+      call test_TEHP
 
       end program main
