@@ -8,6 +8,7 @@ Thumbs.db
 *.tmp
 tmp_*.*
 #Ignore files build by Visual Studio
+*.u2d
 *.user
 *.aps
 *.pch
